@@ -18,7 +18,7 @@ language: en
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: "https://github.com/R-Ladies-Addis/studyGroup/blob/gh-pages/img/coffee-549630_1920.jpg"
+titleBackground: "https://raw.githubusercontent.com/R-Ladies-Addis/studyGroup/gh-pages/img/coffee-549630_1920.jpg"
 headlineSmall: "Welcome To Our Study Group!"
 headlineMain: "Let's Build a Vibrant R Community in Ethiopia"
 
