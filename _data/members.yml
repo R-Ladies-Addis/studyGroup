@@ -5,7 +5,6 @@
   interests:
     - Data Literacy
     - Open Science
-
 - name: Mesfin Diro
   affiliation: AAU
   github: MesfinD
@@ -13,21 +12,18 @@
     - Data Science 
     - Programming
     - HPC
-    
 - name: Dagim Yoseph
   affiliation: AAU
   github: Dagim
   interests:
     - Economics 
-    - Operations Research
-    
+    - Operations Research  
 - name: Yewubnesh Shiferaw
   affiliation: AAU
   github: yewubneshbnt9
   interests:
     - Data Literacy
     - Open Science
-
 - name: Bonny Adane
   affiliation: AAU
   github: bonny
