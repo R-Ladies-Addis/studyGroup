@@ -1,15 +1,15 @@
 
 - name: Margareth Gfrerer
-  affiliation: ESC
-  github: Margareth-Gfrerer
-  interests:
+   affiliation: ESC
+   github: Margareth-Gfrerer
+   interests:
     - Data Literacy
     - Open Science
     
 - name: Mesfin Diro
-  affiliation: AAU
-  github: MesfinD
-  interests:
+   affiliation: AAU
+   github: MesfinD
+   interests:
     - Data Science 
     - Programming
     - HPC
