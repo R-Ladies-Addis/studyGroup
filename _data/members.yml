@@ -1,7 +1,7 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name:Margareth
+  affiliation: ESC
+  github: margareth
   interests:
-    - Programming
+    - Data Litrecy
     - Open Science
 
