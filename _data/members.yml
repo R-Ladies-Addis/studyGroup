@@ -1,10 +1,7 @@
--name: Margareth Gfrerer
- affiliation: ESC 
- github: margareth-gfrerer
- interests: Data literacy | Open Science  
- -name: Bony Adane
- affiliation: ESC 
- github: bonyadane
- interests: -Data literacy |
-            -Open Science  
+- name: Bill Mills
+  affiliation: TRIUMF
+  github: BillMills
+  interests:
+    - Programming
+    - Open Science
 
