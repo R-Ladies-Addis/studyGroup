@@ -46,7 +46,7 @@ APPLICATION_NAME = 'test'
 CALENDAR_ID = 'rladies.addis@gmail.com'
 # TIME_ZONE_STR: check here:
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-TIME_ZONE_STR = 'America/Vancouver'
+TIME_ZONE_STR = 'Africa/Addis_Ababa'
 # -----------------------------------------------------------
 
 SCOPES = 'https://www.googleapis.com/auth/calendar'
