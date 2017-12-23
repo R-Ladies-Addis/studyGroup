@@ -13,3 +13,22 @@
     - Data Science 
     - Programming
     - HPC
+- name: Dagim Yoseph
+  affiliation: AAU
+  github: Dagim
+  interests:
+    - Economics 
+    - Operations Research
+- name: Yewubnesh
+  affiliation: AAU
+  github: yewubnesh
+  interests:
+    - Data Literacy
+    - Open Science
+
+- name: Bony Adane
+  affiliation: AAU
+  github: bonyadane
+  interests:
+    - Data Literacy
+    - Open Science
