@@ -1,14 +1,16 @@
-- name:Margareth Gfrerer
+- name: Margareth Gfrerer
   affiliation: ESC
   github: Margareth-Gfrerer
   interests:
     - Data Litrecy
     - Open Science
     
- - name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+ - name: Mesfin Diro
+  affiliation: AAU
+  github: MesfinD
   interests:
+    - Data Science
     - Programming
+    - HPC
     - Open Science
 
