@@ -6,9 +6,6 @@ Welcome to [R Ladies Addis](https://r-ladies-addis.github.io/studyGroup/)'s Stud
 
 R Ladies Addis Study Groups are fun, informal meetups of your friends and colleagues from around Addis Ababa to share skills, stories and ideas on using code for research, and explore open research practices. The goal is to create a friendly, no-pressure environment where people can share their work, ask for help on a coding problem, and learn and work together with their peers. 
 
-What does the R Ladies Addis Study Groups look like in Real Life? 
-
-
 ## For R Ladies Addis Newcomers
 
 * **Come to a monthly Meeting:** We’ll be running monthly meetings - every 2nd Tuesday in the months starting from 14:00.  It’s a great opportunity to meet, network, and share ideas with other Groups.  If you’re interested in joining us, [let us know by sending an e-mail to addisababa@rladies.org.]
